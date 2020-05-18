@@ -1,0 +1,20 @@
+{
+  "name": "webclues-infotech",
+  "version": "1.0.0",
+  "description": "parking",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "mocha testCases.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Higenious"
+  },
+  "author": "Chetan Tayade",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1"
+  }
+}
